@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\proyecto\Proyecto.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\home.php"/>
+  <file name="C:\xampp\htdocs\proyecto\application\controllers\Sistema.php"/>
+  <file name="C:\xampp\htdocs\proyecto\application\models\Crud_model.php"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\productos.php"/>
+  <file name="C:\xampp\htdocs\proyecto\index.php"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\categorias.php"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\marcas.php"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\reporte.php"/>
+  <lastactivefile name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\reporte.php"/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\proyecto\system\database\DB_query_builder.php">
+   <todo pos="5;2023" name="todo error"/>
+   <todo pos="4;2023" name="@todo error"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\proyecto\system\helpers\string_helper.php">
+   <todo pos="19;229" name="todo: remove in 3.1+"/>
+   <todo pos="20;232" name="todo: remove in 3.1+"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\proyecto\system\libraries\Xmlrpc.php">
+   <todo pos="7;1574" name="todo - this needs to be made more general purpose"/>
+   <todo pos="6;1574" name="@todo - this needs to be made more general purpose"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\drivers\Session_redis_driver.php" crc="1660285566552"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\drivers\Session_memcached_driver.php" crc="1660285566469"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\drivers\Session_files_driver.php" crc="1660285566397"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\drivers\Session_database_driver.php" crc="1660285566293"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\drivers\index.html" crc="1660285566186"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\SessionHandlerInterface.php" crc="1660285566040"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\Session_driver.php" crc="1660285566128"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\Session.php" crc="1660285565974"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Session\index.html" crc="1660285565871"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Javascript\Jquery.php" crc="1660285565787"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Javascript\index.html" crc="1660285565718"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\drivers\index.html" crc="1660285565651"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\drivers\Cache_wincache.php" crc="1660285565601"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\drivers\Cache_redis.php" crc="1660285565552"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\drivers\Cache_memcached.php" crc="1660285565463"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\drivers\Cache_file.php" crc="1660285565416"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\drivers\Cache_dummy.php" crc="1660285565362"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\drivers\Cache_apc.php" crc="1660285565305"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\index.html" crc="1660285565244"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cache\Cache.php" crc="1660285565197"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Zip.php" crc="1660285565095"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Xmlrpcs.php" crc="1660285565018"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Xmlrpc.php" crc="1660285564921"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\User_agent.php" crc="1660285564843"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Upload.php" crc="1660285564743"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Unit_test.php" crc="1660285564637"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Typography.php" crc="1660285564567"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Trackback.php" crc="1660285564355"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Table.php" crc="1660285564307"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Profiler.php" crc="1660285564239"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Parser.php" crc="1660285564174"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Pagination.php" crc="1660285564129"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Migration.php" crc="1660285564055"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Javascript.php" crc="1660285563990"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\index.html" crc="1660285563927"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Image_lib.php" crc="1660285563902"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Ftp.php" crc="1660285563837"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Form_validation.php" crc="1660285563775"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Encryption.php" crc="1660285563712"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Encrypt.php" crc="1660285563638"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Email.php" crc="1660285563556"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Driver.php" crc="1660285563509"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Cart.php" crc="1660285563225"/>
+  <file name="C:\xampp\htdocs\proyecto\system\libraries\Calendar.php" crc="1660285562928"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\upload_lang.php" crc="1660285562836"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\unit_test_lang.php" crc="1660285562774"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\profiler_lang.php" crc="1660285562719"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\pagination_lang.php" crc="1660285562663"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\number_lang.php" crc="1660285562590"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\migration_lang.php" crc="1660285562525"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\index.html" crc="1660285562479"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\imglib_lang.php" crc="1660285562442"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\ftp_lang.php" crc="1660285562406"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\form_validation_lang.php" crc="1660285562352"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\email_lang.php" crc="1660285562294"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\db_lang.php" crc="1660285562254"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\date_lang.php" crc="1660285562198"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\english\calendar_lang.php" crc="1660285562159"/>
+  <file name="C:\xampp\htdocs\proyecto\system\language\index.html" crc="1660285562109"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\xml_helper.php" crc="1660285562059"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\url_helper.php" crc="1660285561993"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\typography_helper.php" crc="1660285561930"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\text_helper.php" crc="1660285561860"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\string_helper.php" crc="1660285561797"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\smiley_helper.php" crc="1660285561767"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\security_helper.php" crc="1660285561702"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\path_helper.php" crc="1660285561641"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\number_helper.php" crc="1660285561602"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\language_helper.php" crc="1660285561563"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\inflector_helper.php" crc="1660285561516"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\index.html" crc="1660285561478"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\html_helper.php" crc="1660285561438"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\form_helper.php" crc="1660285561382"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\file_helper.php" crc="1660285561319"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\email_helper.php" crc="1660285561257"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\download_helper.php" crc="1660285561194"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\directory_helper.php" crc="1660285561122"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\date_helper.php" crc="1660285561062"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\cookie_helper.php" crc="1660285560989"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\captcha_helper.php" crc="1660285560924"/>
+  <file name="C:\xampp\htdocs\proyecto\system\helpers\array_helper.php" crc="1660285560864"/>
+  <file name="C:\xampp\htdocs\proyecto\system\googleLib\GoogleAuthenticator.php" crc="1660285560800"/>
+  <file name="C:\xampp\htdocs\proyecto\system\fonts\index.html" crc="1660285560583"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlsrv\sqlsrv_utility.php" crc="1660285560520"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlsrv\sqlsrv_result.php" crc="1660285560461"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlsrv\sqlsrv_forge.php" crc="1660285560363"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlsrv\sqlsrv_driver.php" crc="1660285560292"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlsrv\index.html" crc="1660285560197"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite3\sqlite3_utility.php" crc="1660285560136"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite3\sqlite3_result.php" crc="1660285560064"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite3\sqlite3_forge.php" crc="1660285560002"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite3\sqlite3_driver.php" crc="1660285559906"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite3\index.html" crc="1660285559851"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite\sqlite_utility.php" crc="1660285559799"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite\sqlite_result.php" crc="1660285559754"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite\sqlite_forge.php" crc="1660285559713"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite\sqlite_driver.php" crc="1660285559671"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\sqlite\index.html" crc="1660285559588"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\postgre\postgre_utility.php" crc="1660285559513"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\postgre\postgre_result.php" crc="1660285559446"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\postgre\postgre_forge.php" crc="1660285559417"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\postgre\postgre_driver.php" crc="1660285559348"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\postgre\index.html" crc="1660285559287"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_forge.php" crc="1660285559219"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_driver.php" crc="1660285559177"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_sqlite_forge.php" crc="1660285559104"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_sqlite_driver.php" crc="1660285559061"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_pgsql_forge.php" crc="1660285559018"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_pgsql_driver.php" crc="1660285558978"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_odbc_forge.php" crc="1660285558918"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_odbc_driver.php" crc="1660285558871"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_oci_forge.php" crc="1660285558794"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_oci_driver.php" crc="1660285558752"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_mysql_forge.php" crc="1660285558682"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_mysql_driver.php" crc="1660285558643"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_informix_forge.php" crc="1660285558574"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_informix_driver.php" crc="1660285558507"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_ibm_forge.php" crc="1660285558436"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_ibm_driver.php" crc="1660285558377"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_firebird_forge.php" crc="1660285558313"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_firebird_driver.php" crc="1660285558226"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_dblib_forge.php" crc="1660285558185"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_dblib_driver.php" crc="1660285558146"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_cubrid_forge.php" crc="1660285558071"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_cubrid_driver.php" crc="1660285558028"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_4d_forge.php" crc="1660285557984"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\pdo_4d_driver.php" crc="1660285557894"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\subdrivers\index.html" crc="1660285557829"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\pdo_utility.php" crc="1660285557776"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\pdo_result.php" crc="1660285557730"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\pdo_forge.php" crc="1660285557687"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\pdo_driver.php" crc="1660285557625"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\pdo\index.html" crc="1660285557550"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\odbc\odbc_utility.php" crc="1660285557489"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\odbc\odbc_result.php" crc="1660285557434"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\odbc\odbc_forge.php" crc="1660285557356"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\odbc\odbc_driver.php" crc="1660285557311"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\odbc\index.html" crc="1660285557222"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\oci8\oci8_utility.php" crc="1660285557171"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\oci8\oci8_result.php" crc="1660285557125"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\oci8\oci8_forge.php" crc="1660285557033"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\oci8\oci8_driver.php" crc="1660285556927"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\oci8\index.html" crc="1660285556856"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysqli\mysqli_utility.php" crc="1660285556790"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysqli\mysqli_result.php" crc="1660285556719"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysqli\mysqli_forge.php" crc="1660285556656"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysqli\mysqli_driver.php" crc="1660285556616"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysqli\index.html" crc="1660285556529"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysql\mysql_utility.php" crc="1660285556456"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysql\mysql_result.php" crc="1660285556391"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysql\mysql_forge.php" crc="1660285556337"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysql\mysql_driver.php" crc="1660285556294"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mysql\index.html" crc="1660285556209"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mssql\mssql_utility.php" crc="1660285556150"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mssql\mssql_result.php" crc="1660285556071"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mssql\mssql_forge.php" crc="1660285556017"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mssql\mssql_driver.php" crc="1660285555977"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\mssql\index.html" crc="1660285555903"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\ibase\index.html" crc="1660285555850"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\ibase\ibase_utility.php" crc="1660285555808"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\ibase\ibase_result.php" crc="1660285555742"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\ibase\ibase_forge.php" crc="1660285555679"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\ibase\ibase_driver.php" crc="1660285555611"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\cubrid\index.html" crc="1660285555526"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\cubrid\cubrid_utility.php" crc="1660285555485"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\cubrid\cubrid_result.php" crc="1660285555422"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\cubrid\cubrid_forge.php" crc="1660285555360"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\cubrid\cubrid_driver.php" crc="1660285555319"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\drivers\index.html" crc="1660285555237"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\index.html" crc="1660285555183"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\DB_utility.php" crc="1660285555142"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\DB_result.php" crc="1660285555057"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\DB_query_builder.php" crc="1660285554988"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\DB_forge.php" crc="1660285554941"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\DB_driver.php" crc="1660285554876"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\DB_cache.php" crc="1660285554794"/>
+  <file name="C:\xampp\htdocs\proyecto\system\database\DB.php" crc="1660285554723"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\compat\standard.php" crc="1660285554631"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\compat\password.php" crc="1660285554579"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\compat\mbstring.php" crc="1660285554519"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\compat\index.html" crc="1660285554454"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\compat\hash.php" crc="1660285554404"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Utf8.php" crc="1660285554291"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\URI.php" crc="1660285554235"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Security.php" crc="1660285554168"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Router.php" crc="1660285554081"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Output.php" crc="1660285553973"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Model.php" crc="1660285553912"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Log.php" crc="1660285553840"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Loader.php" crc="1660285553809"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Lang.php" crc="1660285553739"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Input.php" crc="1660285553670"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\index.html" crc="1660285553581"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Hooks.php" crc="1660285553516"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Exceptions.php" crc="1660285553472"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Controller.php" crc="1660285553420"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Config.php" crc="1660285553315"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Common.php" crc="1660285553196"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\CodeIgniter.php" crc="1660285553104"/>
+  <file name="C:\xampp\htdocs\proyecto\system\core\Benchmark.php" crc="1660285553013"/>
+  <file name="C:\xampp\htdocs\proyecto\system\index.html" crc="1660285552904"/>
+  <file name="C:\xampp\htdocs\proyecto\system\.htaccess" crc="1660285552863"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\reporte.php" crc="1660285552252"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\productos.php" crc="1660285551873"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\marcas.php" crc="1660285551764"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\home.php" crc="1660285551664"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\modules\categorias.php" crc="1660285551586"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\sistema\index.php" crc="1660285551487"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\html\index.html" crc="1660285551420"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\html\error_php.php" crc="1660285551357"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\html\error_general.php" crc="1660285551295"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\html\error_exception.php" crc="1660285551260"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\html\error_db.php" crc="1660285551215"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\html\error_404.php" crc="1660285551158"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\cli\index.html" crc="1660285551096"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\cli\error_php.php" crc="1660285551064"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\cli\error_general.php" crc="1660285551024"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\cli\error_exception.php" crc="1660285550976"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\cli\error_db.php" crc="1660285550898"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\cli\error_404.php" crc="1660285550851"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\errors\index.html" crc="1660285550794"/>
+  <file name="C:\xampp\htdocs\proyecto\application\views\index.html" crc="1660285550734"/>
+  <file name="C:\xampp\htdocs\proyecto\application\third_party\index.html" crc="1660285550671"/>
+  <file name="C:\xampp\htdocs\proyecto\application\models\index.html" crc="1660285550620"/>
+  <file name="C:\xampp\htdocs\proyecto\application\models\Crud_model.php" crc="1660285550589"/>
+  <file name="C:\xampp\htdocs\proyecto\application\logs\index.html" crc="1660285550499"/>
+  <file name="C:\xampp\htdocs\proyecto\application\libraries\index.html" crc="1660285550436"/>
+  <file name="C:\xampp\htdocs\proyecto\application\language\english\index.html" crc="1660285550389"/>
+  <file name="C:\xampp\htdocs\proyecto\application\language\index.html" crc="1660285550342"/>
+  <file name="C:\xampp\htdocs\proyecto\application\hooks\index.html" crc="1660285550285"/>
+  <file name="C:\xampp\htdocs\proyecto\application\helpers\user_helper.php" crc="1660285550238"/>
+  <file name="C:\xampp\htdocs\proyecto\application\helpers\pagination_helper.php" crc="1660285550191"/>
+  <file name="C:\xampp\htdocs\proyecto\application\helpers\multi_language_helper.php" crc="1660285550141"/>
+  <file name="C:\xampp\htdocs\proyecto\application\helpers\index.html" crc="1660285550110"/>
+  <file name="C:\xampp\htdocs\proyecto\application\helpers\common_helper.php" crc="1660285550067"/>
+  <file name="C:\xampp\htdocs\proyecto\application\core\index.html" crc="1660285549989"/>
+  <file name="C:\xampp\htdocs\proyecto\application\controllers\Sistema.php" crc="1660285549927"/>
+  <file name="C:\xampp\htdocs\proyecto\application\controllers\index.html" crc="1660285549858"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\user_agents.php" crc="1660285549762"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\smileys.php" crc="1660285549709"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\routes.php" crc="1660285549644"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\profiler.php" crc="1660285549603"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\mimes.php" crc="1660285549556"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\migration.php" crc="1660285549494"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\memcached.php" crc="1660285549459"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\index.html" crc="1660285549397"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\hooks.php" crc="1660285549361"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\foreign_chars.php" crc="1660285549297"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\doctypes.php" crc="1660285549265"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\database.php" crc="1660285743895"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\constants.php" crc="1660285549187"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\config.php" crc="1660285549135"/>
+  <file name="C:\xampp\htdocs\proyecto\application\config\autoload.php" crc="1660285549071"/>
+  <file name="C:\xampp\htdocs\proyecto\application\cache\index.html" crc="1660285549009"/>
+  <file name="C:\xampp\htdocs\proyecto\application\index.html" crc="1660285548946"/>
+  <file name="C:\xampp\htdocs\proyecto\application\.htaccess" crc="1660285548874"/>
+  <file name="C:\xampp\htdocs\proyecto\index.php" crc="1660285566751"/>
+  <file name="C:\xampp\htdocs\proyecto\.htaccess" crc="1660285711383"/>
+ </filescache>
+</project>
